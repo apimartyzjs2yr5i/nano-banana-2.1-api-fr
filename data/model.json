@@ -1,0 +1,29 @@
+{
+  "id": "gemini-nano-banana-2.1",
+  "ext": "gemini-nano-banana-2.1-ext",
+  "source": "https://apimart.ai/en/pricing",
+  "extracted_at": "2026-10-12T09:50:53Z",
+  "prices": {
+    "default": {
+      "list": 0.025,
+      "effective": 0.02
+    },
+    "1K": {
+      "list": 0.025,
+      "effective": 0.02
+    },
+    "2K": {
+      "list": 0.03125,
+      "effective": 0.025
+    },
+    "4K": {
+      "list": 0.0375,
+      "effective": 0.03
+    }
+  },
+  "rates": {},
+  "unit": "usd_per_image",
+  "aspect_ratios": "`auto`, `1:1`, `2:3`, `3:2`, `3:4`, `4:3`, `4:5`, `5:4`, `9:16`, `16:9`, `21:9`, `1:4`, `4:1`, `1:8`, `8:1`",
+  "result_link_ttl": "72 hours",
+  "reference_note": "The official route allows up to 20 MB per reference; the Ext route allows 30 MB per reference and 50 MB combined. In a reference-image workflow `auto` follows the reference ratio."
+}
